@@ -1520,7 +1520,14 @@ div#map iframe {
     background-size: cover;
     padding-top: 135px;
 	background-attachment: fixed;
-  
+
+   filter: brightness(50%);
+        -webkit-filter: brightness(50%);
+        -moz-filter: brightness(50%);
+        -o-filter: brightness(50%);
+        -ms-filter: brightness(50%);
+}
+
 }
 .about-grids {
 	padding:60px 0;
