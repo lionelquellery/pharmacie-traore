@@ -385,7 +385,7 @@ header.logo {
 a.cd-logo {
     text-decoration: none;
     font-size: 40px;
-    color: #FFDD00;
+    
 	font-family: 'Poiret One', cursive;
 }
 
@@ -1520,6 +1520,7 @@ div#map iframe {
     background-size: cover;
     padding-top: 135px;
 	background-attachment: fixed;
+
 }
 .about-grids {
 	padding:60px 0;
